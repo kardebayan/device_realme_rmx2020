@@ -493,11 +493,13 @@ vendor/firmware/tp/19741/xl_auo_ilitek_oppo_signed.bin
 vendor/firmware/txpowerctrl.cfg
 vendor/firmware/ufs/move_target_ufs_fw_to_opporeserve1.sh
 vendor/firmware/ufs/SAMSUNG-KM8V7001JM-B810.bin
-vendor/firmware/wifi.cfg
-vendor/firmware/wifi_19741.cfg
-vendor/firmware/wifi_19747.cfg
 vendor/firmware/WIFI_RAM_CODE_soc1_0_1a_1.bin
 vendor/firmware/WMT_SOC.cfg
+
+# Firmware - from alps/vnd_oppo6769/oppo6769:11/RP1A.200720.011/1607914664672:user/release-keys
+vendor/firmware/wifi.cfg|9ee31b5c57357976400358b5bddac592a768ce7a
+vendor/firmware/wifi_19741.cfg|9ee31b5c57357976400358b5bddac592a768ce7a
+vendor/firmware/wifi_19747.cfg|9ee31b5c57357976400358b5bddac592a768ce7a
 
 # GPS
 vendor/bin/hw/android.hardware.gnss@2.0-service-mediatek
